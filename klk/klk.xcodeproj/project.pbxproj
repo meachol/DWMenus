@@ -14,6 +14,7 @@
 		23478A3925753C0200FFDF70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23478A3825753C0200FFDF70 /* Assets.xcassets */; };
 		23478A3C25753C0200FFDF70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23478A3A25753C0200FFDF70 /* LaunchScreen.storyboard */; };
 		23A2E0A7257D118A003783F0 /* uuuh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2E0A6257D118A003783F0 /* uuuh.swift */; };
+		23A2E0AA257D1CDF003783F0 /* fgsffdffgdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2E0A9257D1CDF003783F0 /* fgsffdffgdf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		23478A3B25753C0200FFDF70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23478A3D25753C0200FFDF70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23A2E0A6257D118A003783F0 /* uuuh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uuuh.swift; sourceTree = "<group>"; };
+		23A2E0A9257D1CDF003783F0 /* fgsffdffgdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fgsffdffgdf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				23478A2F25753BFF00FFDF70 /* AppDelegate.swift */,
 				23478A3125753BFF00FFDF70 /* SceneDelegate.swift */,
 				23478A3325753BFF00FFDF70 /* ViewController.swift */,
+				23A2E0A9257D1CDF003783F0 /* fgsffdffgdf.swift */,
 				23A2E0A6257D118A003783F0 /* uuuh.swift */,
 				23478A3525753BFF00FFDF70 /* Main.storyboard */,
 				23478A3825753C0200FFDF70 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				23478A3425753BFF00FFDF70 /* ViewController.swift in Sources */,
 				23478A3025753BFF00FFDF70 /* AppDelegate.swift in Sources */,
 				23478A3225753BFF00FFDF70 /* SceneDelegate.swift in Sources */,
+				23A2E0AA257D1CDF003783F0 /* fgsffdffgdf.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
