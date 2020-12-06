@@ -13,6 +13,18 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
 print("dsvfzv")
+        print("dsvfzv")
+
+        
+        print("dsvfzv")
+
+        
+        print("dsvfzv")
+
+        
+        
+        print("dsvfzv")
+
         //LHKLHJKLHJKLHKJ
     }
 
